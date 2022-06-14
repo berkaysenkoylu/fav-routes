@@ -1,0 +1,1 @@
+Small app that helps creating awesome routes to take a walk on!
